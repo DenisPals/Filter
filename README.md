@@ -43,4 +43,4 @@ Blur
 A number of images has been provided in the image folder.
 
 ## Output
-![alt text](https://github.com/[DenisPals]/[Filter]/blob/[master]/image.jpg?raw=true)
+![alt text](https://github.com/DenisPals/Filter/blob/main/image.jpg?raw=true)
