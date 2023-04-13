@@ -44,4 +44,5 @@ A number of images has been provided in the image folder.
 
 ## Output
 **The first image is the original one**
+
 ![alt text](https://github.com/DenisPals/Filter/blob/main/filterExample.jpg?raw=true)
