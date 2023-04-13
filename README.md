@@ -28,21 +28,21 @@ Bmp.h contains BMP-related data types based on Microsoft's own. These are provid
 
 ## How to run
 To run this program, a C compiler must be installed. The best way is to run it is to use a Linux enviroment like WSL for windows (if not using Linux) and to run (after compiling) one of the following: 
-Grayscale
+Grayscale:
 > ./filter -g INFILE.bmp OUTFILE.bmp
 
-Sepia
+Sepia:
 > ./filter -s INFILE.bmp OUTFILE.bmp
 
-Reflect
+Reflect:
 > ./filter -r INFILE.bmp OUTFILE.bmp
 
-Blur
+Blur:
 > ./filter -b INFILE.bmp OUTFILE.bmp
 
-A number of images has been provided in the image folder.
+A few images have been provided in the image folder.
 
 ## Output
-**The first image is the original one**
+**The first image is the original one.**
 
 ![alt text](https://github.com/DenisPals/Filter/blob/main/filterExample.jpg?raw=true)
