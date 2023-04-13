@@ -1,4 +1,4 @@
-# Filter - A C program that applies a grayslace, sepia, reflect or blur filter to a bitmap image
+# Filter - A program that applies a grayslace, sepia, reflect or blur filter to a bitmap image
 ## Complexity
 This instagram-like filter applies a number of filters to a bitmap image. This is achieved by reading in a given image, iterating over each pixel and changing their RGB values accordingly. To apply an grayscale filter, the average of of all RGB values of a 24 bit pixel (each byte represents a color) is taken and is reapplied to the pixel. This will result in a grayscale version of that pixel. For a sepia filter, a sepia formula is applied to each Pixel of the image:
 ```
