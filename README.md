@@ -15,6 +15,7 @@ The challenge was:
 * The implementation of the reflect function. 
 * The implementation of the blur  function. 
 
+This is a course related project and part of the problemset in Harvards CS50x week 4.
 
 ## Files
 **helpers.c**
