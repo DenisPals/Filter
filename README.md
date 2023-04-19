@@ -18,11 +18,14 @@ The challenge was:
 This is a course related project and part of the problemset in Harvards CS50x week 4.
 
 ## Files
-**helpers.c** contains the filtering functions, written in the C programming language. These are then utelized by filter.c in order to perform the filter operation. 
+**helpers.c** &rarr; 
+contains the filtering functions, written in the C programming language. These are then utelized by filter.c in order to perform the filter operation. 
 
-**filter.c** contains the code that reads in a bmp file and creates a new one. The filter functions are called using a switch, which are then applied to the image that is stored in memory. Filter.c also handels the command-line user inputs.
+**filter.c** &rarr;
+contains the code that reads in a bmp file and creates a new one. The filter functions are called using a switch, which are then applied to the image that is stored in memory. Filter.c also handels the command-line user inputs.
 
-**bmp.h** contains BMP-related data types based on Microsoft's own. These are provided by Microsoft and can be found in [Microsoft's Documentation](http://msdn.microsoft.com/en-us/library)
+**bmp.h** &rarr; 
+contains BMP-related data types based on Microsoft's own. These are provided by Microsoft and can be found in [Microsoft's Documentation](http://msdn.microsoft.com/en-us/library)
 
 ## How to run
 To run this program, a C compiler must be installed. The best way is to run it is to use a Linux enviroment like WSL for windows (if not using Linux) and to run (after compiling) one of the following: 
